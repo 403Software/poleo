@@ -1,0 +1,19 @@
+info:
+  title: oner-flask-rest api exemple
+  description: oner-flask-rest api exemple
+  version: 0.2.0-rc.2
+
+servers:
+  - url: localhost:6300
+    description: Internal development server (dev)
+
+tags:
+  - name: oner-flask-rest
+    description: Operations over documents
+  - name: document
+    description: Operations over documents
+  - name: model
+    description: Model management
+  - name: health
+    description: Check the api availability
+    

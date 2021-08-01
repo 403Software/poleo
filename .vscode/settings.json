@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+       "src",
+       "testes_unitarios",
+   ],
+   "python.pythonPath": "C:\\Users\\oner\\.virtualenvs\\oner-flask-rest-api-exemple\\venv\\Scripts\\python.exe"
+ }

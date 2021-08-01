@@ -7,6 +7,9 @@ Você pode ter como base este exemplo para iniciar suas aplicações com uma rot
 
 Lembre-se de seguir e dar uma estrela se isto te ajudou e facilitou no seu desenvolvimento.
 
+## Database
+
+Crie um novo database em: ``https://cloud.mongodb.com``
 ## Ambientes
 
 Inicialmente trabalharemos com apenas ``dev``, mas isso poderá ser expandido conforme a necessidade do projeto.

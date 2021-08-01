@@ -1,0 +1,10 @@
+tags:
+  - health
+
+responses:
+  200:
+    description: OK
+  500:
+    description: INTERNAL SERVER ERROR
+
+
