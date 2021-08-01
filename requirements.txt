@@ -1,0 +1,11 @@
+pymongo[srv]==3.11.3
+uwsgi==2.0.18; platform_system != "Windows"
+Flask==1.1.1
+Flask-RESTful==0.3.7
+Flask-CORS==3.0.8
+python-dotenv==0.10.3
+mongoengine==0.19.1
+requests==2.22.0
+responses==0.13.3
+pytest-flask==1.2.0
+pytest-cov==2.12.1
